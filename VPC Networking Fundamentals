@@ -1,0 +1,5 @@
+curl -LO https://raw.githubusercontent.com/AnmolGour09/VPC-Networking-Fundamentals/refs/heads/main/Anmol.sh
+
+sudo chmod +x Anmol.sh
+
+./Anmol.sh
